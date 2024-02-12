@@ -13,6 +13,8 @@ Interaction: Users can interact with the smart contract through the frontend int
 
 ##  Getting Started
 
+###  Executing Program
+
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 To use this functionality, follow these steps:
